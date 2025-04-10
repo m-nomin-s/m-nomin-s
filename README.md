@@ -26,7 +26,7 @@
   Inventory management and billing console app using structs and classes.  
 - **[E‑Commerce Inventory & Order Management (C++)](https://github.com/m-nomin-s/ecommerce-inventory-system)**  
   Full OOP solution with admin/customer roles, file persistence, queues & stacks.  
-- **[Digital Logic Design Simulator (DLD)](https://github.com/m-nomin-s/dld-simulator)**  
+- **[Digital Logic Design Simulator (DLD)](https://github.com/m-nomin-s/dld-simulator)** 
   A project implementing basic gates and circuits to simulate combinational logic.  
 - **[Portfolio Website (HTML/CSS/JS)](https://github.com/m-nomin-s/portfolio-website)**  
   Responsive single‑page site showcasing my projects and skills.
