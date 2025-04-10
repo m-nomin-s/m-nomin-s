@@ -20,7 +20,7 @@
 ![Office](https://img.shields.io/badge/-Word%2FExcel%2FPowerPoint-0078D4?logo=microsoftoffice&style=flat-square)
 
 ## 📂 Projects
-- **[Restaurant Management System (C++)](https://github.com/m-nomin-s/https://sg.docworkspace.com/d/sII3v3djAAeC1378G)**  
+- **[Restaurant Management System (C++)](https://github.com/m-nomin-s/restaurant-management-system)**  
   A console‑based OOP C++ app to manage tables, bookings, check‑in/out, and billing.  
 - **[Supermarket Billing System (C++)](https://github.com/m-nomin-s/supermarket-billing-system)**  
   Inventory management and billing console app using structs and classes.  
